@@ -1,5 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 🌱 I’m currently learning Machine Learning and Python!
+## Rodrigo Pinheiro
+I'm a bachelor in Electronics Engineering with more than 10 years of experience on Oil & Gas **Control Systems**. 
+📫 You can reach me at my LinkedIn profile at https://www.linkedin.com/in/rodpin
 <!--
 **rodpin123/rodpin123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
